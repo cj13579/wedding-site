@@ -2,6 +2,7 @@
 layout: home 
 title: Welcome
 nav_weight: 1
+permalink: /
 ---
 
 Thanks for stopping by! We hope that you’ll be able to join us on the 25th June 2016 at Pennsylvania Castle, Dorset for our ceremony followed by an evening of awesome food and drink and some less awesome dancing!

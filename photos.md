@@ -3,6 +3,7 @@ layout: page
 banner: images/cropped-awesome-starfish-background-picture-new-best-hd-wallpapers-of-starfish-2.jpg
 title: Photos
 nav_weight: 8
+permalink: /photos
 ---
 It is always nice to look back at the photos and remember amazing times. We thought we would share some of our favourite photos of our wedding with you. If you would like full size copies of any of the photos please get in touch and we’d be more than happy to share! If you have any photos of our special day we would love to see them!
 

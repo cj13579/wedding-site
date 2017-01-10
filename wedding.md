@@ -3,6 +3,7 @@ layout: page
 banner: 'images/pennsylvania-castle-3.jpg' 
 title: The Wedding
 nav_weight: 2
+permalink: /wedding
 ---
 ### Saturday 25th June 2016 – The Wedding
 

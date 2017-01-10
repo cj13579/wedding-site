@@ -3,6 +3,7 @@ layout: page
 banner: 'images/durdle.jpeg' 
 title: Local Info 
 nav_weight: 3 
+permalink: /info
 ---
 
 ### Accomodation
